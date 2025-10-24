@@ -7,7 +7,7 @@ Visit the live website to browse all personas: [GitHub Pages Site](https://bvask
 
 ## 📋 Available Personas
 
-- **Dr. Bonroe** - AI Industry Analyst & Practitioner
+- **[Dr. Bonroe](https://github.com/bvasko/AI-personas/blob/main/AI-Technical-Expert)** - AI Industry Analyst & Practitioner
 
 ## 🚀 Setting up GitHub Pages
 
